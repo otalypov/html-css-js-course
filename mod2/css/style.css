@@ -6,15 +6,8 @@
 h1 {
   margin-bottom: 30px;
   text-align: center;
+  font-size: 175%;
 }
-
-p {
-  margin-right: 15px;
-  margin-left: 15px;
-  color: black;
-  overflow: hidden;
-}
-
 
 .row {
   width: 100%;
@@ -23,18 +16,35 @@ p {
 .section-title {
   position: absolute;
   right: 0px;
+  top: 0px;
   width: 100px;
-  border: 2px solid black;
+  height: 35px;
+  padding: 5px;
+  margin: 15px;
+  border: 1px black solid;
   text-align: center;
-  padding: 5px
+  font-size: 125%;
+  color: black;
 }
 
 .section-text {
+<<<<<<< HEAD
+  /*position: relative;*/
+  height: 170px;
+  padding: 10px;
+  padding-top: 40px;
+  margin: 15px;
+  background-color: lightgrey;
+  border: 1px black solid;
+  overflow: hidden;
+  color: black;
+=======
   height: 120px;
   padding: 15px;
   padding-top: 35px;
   background-color: lightgrey;
   border: 2px solid black;
+>>>>>>> 514b6352b81efd5a942698b90aa1a23311957b23
 }
 
 /********** Large devices only **********/
@@ -171,12 +181,15 @@ p {
 
 #chicken {
   background-color: goldenrod;
+  color: black;
 }
 
 #beef {
   background-color: chocolate;
+  color: white;
 }
 
 #sushi {
   background-color: lightblue;
+  color: black;
 }
