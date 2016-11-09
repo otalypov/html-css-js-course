@@ -28,8 +28,6 @@ h1 {
 }
 
 .section-text {
-<<<<<<< HEAD
-  /*position: relative;*/
   height: 170px;
   padding: 10px;
   padding-top: 40px;
@@ -38,13 +36,11 @@ h1 {
   border: 1px black solid;
   overflow: hidden;
   color: black;
-=======
   height: 120px;
   padding: 15px;
   padding-top: 35px;
   background-color: lightgrey;
-  border: 2px solid black;
->>>>>>> 514b6352b81efd5a942698b90aa1a23311957b23
+  border: 1px solid black;
 }
 
 /********** Large devices only **********/
