@@ -1,12 +1,12 @@
 * {
   box-sizing: border-box;
-  font-family: Helvetica;
 }
 
 h1 {
   margin-bottom: 30px;
   text-align: center;
   font-size: 175%;
+  font-family: Helvetica
 }
 
 .row {
@@ -24,23 +24,19 @@ h1 {
   border: 1px black solid;
   text-align: center;
   font-size: 125%;
-  color: black;
+  font-family: Helvetica;
 }
 
 .section-text {
-  height: 170px;
-  padding: 10px;
+  height: 120px;
+  padding: 15px;
   padding-top: 40px;
   margin: 15px;
   background-color: lightgrey;
   border: 1px black solid;
   overflow: hidden;
+  font-family: Helvetica;
   color: black;
-  height: 120px;
-  padding: 15px;
-  padding-top: 35px;
-  background-color: lightgrey;
-  border: 1px solid black;
 }
 
 /********** Large devices only **********/
