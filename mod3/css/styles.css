@@ -1,0 +1,16 @@
+#item-text {
+	height: 1000px;
+    background-color: lightgrey;
+    padding: 15px
+}
+
+#item-title {
+	margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#menu-header {
+	margin-bottom: 30px
+}
